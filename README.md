@@ -11,3 +11,6 @@ Landlord Tools: Provides data-driven insights for setting competitive rental pri
 Data Analytics: Descriptive, prescriptive, and diagnostic analytics to improve decision-making.
 
 Property Insights: Personalized filtering, unit insights, and market condition comparisons.
+
+# Interactive Dashboard #: 
+https://app.powerbi.com/view?r=eyJrIjoiNzc4MjRjZTMtOGU2MC00Zjc4LTg2NzctM2VkN2ZlZDgyZGJiIiwidCI6IjdmMDQ4ZmMxLTJlYTMtNDhlNC1hYzkyLTkxZDFlYjA5ODA3YyIsImMiOjEwfQ%3D%3D
