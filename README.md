@@ -6,7 +6,7 @@ Features:
 
 Tenant Filters: Helps tenants find properties based on budget, features, and location using the 30% affordability rule.
 
-Landlord Tools: Provides data-driven insights for setting competitive rental prices based on real-time market data.
+Landlord Tools: Provides data-driven insights for setting competitive rental prices based on market data.
 
 Data Analytics: Descriptive, prescriptive, and diagnostic analytics to improve decision-making.
 
